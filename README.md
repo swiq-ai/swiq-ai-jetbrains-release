@@ -1,4 +1,4 @@
-# SWIQ.AI
+# SWIQ.AI (Speed With Quality)
 SWIQ.AI accelerates your software stability journey and frees up developer’s
 30% time spent on unit testing.
 
