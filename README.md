@@ -1,5 +1,5 @@
 # SWIQ.AI
-We at SWIQ.AI accelerates your software stability journey and frees up developer’s
+SWIQ.AI accelerates your software stability journey and frees up developer’s
 30% time spent on unit testing.
 
 #
